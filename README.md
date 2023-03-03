@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Itsrahulz&color=green)
 
-![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsrahulz&show_icons=true&theme=radical)
+![Itsrahulz GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsrahulz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsrahulz&layout=compact&theme=vision-friendly-dark)](https://github.com/Itsrahulz/github-readme-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4)
+
 <!--badges-->
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
