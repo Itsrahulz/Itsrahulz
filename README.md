@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <!--<img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/1c883ebff56595d1accb5.jpg">-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itssaurabhz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itsrahulz&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=itssaurabhz&color=green)
+![](https://komarev.com/ghpvc/?username=Itsrahulz&color=green)
 
-![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itssaurabhz&show_icons=true&theme=radical)
+![Itssaurabh'z GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsrahulz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssaurabhz&layout=compact&theme=vision-friendly-dark)](https://github.com/Itssaurabhz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsrahulz&layout=compact&theme=vision-friendly-dark)](https://github.com/Itsrahulz/github-readme-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vgkbrkbuj5daix2qlf6yym3lh4)
 <!--badges-->
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
